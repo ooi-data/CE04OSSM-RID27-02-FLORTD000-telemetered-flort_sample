@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSSM-RID27-02-FLORTD000-telemetered-flort_sample
 data_stream: CE04OSSM-RID27-02-FLORTD000-telemetered-flort_sample
-end_date: '2022-01-21T00:33:16.750Z'
-last_updated: '2022-01-21T09:32:26.741757'
+end_date: '2021-12-31T23:33:16.371Z'
+last_updated: '2022-01-22T04:12:26.010447Z'
 start_date: '2015-04-07T23:00:14.573Z'
-status: failed
+status: pending
